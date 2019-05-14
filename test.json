@@ -22,7 +22,7 @@
         "attributes": {
           "command": "",
           "custom-domain": "",
-          "image": "wordpress",
+          "image": "nginx",
           "instances": 1,
           "ports": [
             {
